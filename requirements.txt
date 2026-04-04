@@ -1,0 +1,8 @@
+# llm-data-audit
+# No third-party dependencies for the core auditor.
+# The package uses only Python standard library modules:
+# json, hashlib, datetime, collections, typing
+
+# For production distribution drift monitoring (optional upgrade from z-score):
+# scipy>=1.11.0   # for stats.wasserstein_distance
+# numpy>=1.25.0   # for np.histogram (PSI calculation)
