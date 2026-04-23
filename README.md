@@ -2,7 +2,7 @@
 
 A structured, three-zone diagnostic framework for auditing the data layer beneath an LLM product — before you blame the model.
 
-Companion code for the article **"Garbage In, Hallucination Out: The Data Quality Problems Sitting Upstream of Every LLM Failure"** published on [AI Advances](https://ai.gopubby.com).
+Companion code for the article [**"Garbage In, Hallucination Out: The Data Quality Problems Sitting Upstream of Every LLM Failure"**](https://medium.com/ai-advances/garbage-in-hallucination-out-the-data-quality-problems-sitting-upstream-of-every-llm-failure-08f0377ceb71) published on [AI Advances](https://ai.gopubby.com).
 
 ---
 
